@@ -1,0 +1,5 @@
+{
+  "name": "Storyboard AI",
+  "description": "An AI-powered application to generate creative storyboards from a simple text prompt. Enter your idea, and let Gemini craft a sequence of scenes with descriptions and visual suggestions to kickstart your creative project.",
+  "requestFramePermissions": []
+}
